@@ -47,6 +47,9 @@ Real-Time Emotion Detection: Use the real-time emotion detection script to detec
 Conv2D<br>MaxPooling2D<br>Dense<br>Dropout<br>Flatten
 </p>
 
+### Dataset
+<p> click Here link for download Dataset : `https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/download?datasetVersionNumber=1`</p>
+
 
 ### Contributing
 Contributions to this project are welcome. If you encounter any issues or have ideas for improvements, please open an issue or submit a pull request. Make sure to adhere to the project's code style and guidelines.
