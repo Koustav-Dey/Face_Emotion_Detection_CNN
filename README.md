@@ -2,8 +2,6 @@
 
 This project is a face emotion detection system that utilizes computer vision and machine learning techniques to analyze and recognize emotions displayed on human faces. It provides a robust and accurate method for automatically detecting and classifying emotions such as happiness, sadness, anger, surprise, fear, and disgust.
 
-![alt](https://github.com/anujdube12/Jarvis-AI/blob/master/IronMan_wall.jpg)
-
 
 ---
 
@@ -61,9 +59,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 <p>
 Keras<br>Tensorflow<br>Scikit-Learn<br>Numpy<br>Pandas<br>os<br>matplotlib
 </p>
-
-
-<hr>
 
  ---
 ### Avdantages : 
