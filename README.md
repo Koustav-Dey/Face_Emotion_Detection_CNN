@@ -15,11 +15,11 @@ This project is a face emotion detection system that utilizes computer vision an
 
 1. CNN Architecture: The core of the system is a CNN model specifically designed for emotion detection. It leverages the power of deep learning to extract high-level features from facial images and make accurate emotion predictions.
 
-2.Data Preprocessing: The repository includes code for data preprocessing, which involves transforming and augmenting the dataset to enhance the model's ability to generalize. It ensures robustness across various facial expressions, lighting conditions, and demographic factors.
+2. Data Preprocessing: The repository includes code for data preprocessing, which involves transforming and augmenting the dataset to enhance the model's ability to generalize. It ensures robustness across various facial expressions, lighting conditions, and demographic factors.
 
-3.Training and Evaluation: The system provides scripts and utilities to train the CNN model using labeled facial expression datasets. It includes options to customize hyperparameters, such as learning rate, batch size, and number of training epochs. Additionally, evaluation tools are available to assess the model's performance on validation or test datasets.
+3. Training and Evaluation: The system provides scripts and utilities to train the CNN model using labeled facial expression datasets. It includes options to customize hyperparameters, such as learning rate, batch size, and number of training epochs. Additionally, evaluation tools are available to assess the model's performance on validation or test datasets.
 
-4.Real-Time Emotion Detection: The repository contains a real-time emotion detection script that utilizes the trained model to detect emotions in live video streams from a webcam. It employs computer vision techniques to detect faces, extract facial regions, and predict emotions frame by frame.
+4. Real-Time Emotion Detection: The repository contains a real-time emotion detection script that utilizes the trained model to detect emotions in live video streams from a webcam. It employs computer vision techniques to detect faces, extract facial regions, and predict emotions frame by frame.
 
 
 ### Getting Started
